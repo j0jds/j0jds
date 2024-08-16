@@ -17,7 +17,7 @@ Veni, Vidi, Vici.
 
 #### Languages & Frameworks
 - 🗣️ **Intermediate English**
-- 🥶 **Python, .NET, Typescript, C#, Java, JavaScript, Kotlin**
+- 🥶 **Python, .NET, Typescript, C#, JavaScript, Kotlin, Java**
 - ☁️ **Angular, React JS, Flask**
 
 #### Tools & Technologies
