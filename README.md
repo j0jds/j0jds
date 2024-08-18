@@ -1,43 +1,109 @@
+<h3 align="center">💻 GitHub Profile Stats</h3>
 
-Veni, Vidi, Vici.
-
----
-
-### About Me
-- **Software Developer Intern at Direction Systems**
-- **+2 years of programming experience**
-- **Actively participating in personal and collective projects**
-- **Scientific initiation aiming to build tools to combat arboviruses in the city of Recife**
-- **Game Developer (Coming soon...)**
-- **Working in Machine Learning projects (Coming soon...)**
-
----
-
-### Skills
-
-#### Languages & Frameworks
-- 🗣️ **Intermediate English**
-- 🥶 **Python, .NET, Typescript, C#, JavaScript, Kotlin, Java**
-- ☁️ **Angular, React JS, Flask**
-
-#### Tools & Technologies
-- 🐉 **Process Automation with Shell Scripting**
-- 😶‍🌫️ **Azure, AWS**
-
----
-
-### Professional Contact
-
-- **Email**: [mrlucassilva7342@gmail.com](mailto:mrlucassilva7342@gmail.com)
-
----
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=j0jds&theme=github-dark-blue" alt="GitHub Streak" /></a>
+<div align="center"> 
+ <img alt="j0jds's Github Stats" src="https://github-readme-stats.vercel.app/api?username=j0jds&theme=github_dark&show_icons=true" height="194 px"/>
+ <img alt="j0jds's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0jds&layout=compact&theme=github_dark" height="194 px"/>
+ <img alt="j0jds's Streak Stats" src="https://streak-stats.demolab.com?user=j0jds&theme=github-dark-blue" alt="GitHub Streak"/></a>
+  
 </div>
 
----
+<br>
 
-### My Skills
+  <b>Note:</b> Top languages ​​is only a metric of the languages ​​my public codes consists of but doesn't reflect experience, skill level, neither the type I prefer to work.
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,angular,cs,python,js,java,scss,react,ts,kotlin,sqlite,flask,html,css,bash)](https://skillicons.dev)
+<br>
+
+  <img alt="j0jds's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=j0jds&theme=github-dark" align="center"/>
+
+<br>
+
+  <hr>
+  
+  <h3 align="center">👨‍💻 Programming and Markup Languages</h3>
+  
+  <div align="center">
+    <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
+    <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
+    <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+  </div>
+  
+  <h3 align="center">🧰 Frameworks and Libraries</h3>
+  
+  <div align="center">
+    <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <img alt="Gunicorn" src="https://img.shields.io/badge/-Gunicorn-499848.svg?logo=gunicorn&logoColor=white"></a>
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
+    <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+  </div>
+  
+  <h3 align="center">🗄️ Databases and Cloud Hosting</h3>
+  
+  <div align="center">
+      <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+      <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+      <img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+      <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
+      <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+  </div>
+  
+  <h3 align="center">💻 Software and Tools</h3>
+  
+  <div align="center">
+     <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+     <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+     <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+     <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  </div>
+  
+<hr>
+
+<h3 align="center">Veni, Vidi, Vici.</h3>
+
+<hr>
+
+  
+<h3><b>About Me</b></h3>
+<ul>
+  <li>Software Developer Intern at Direction Systems</li>
+  <li>+2 years of programming experience</li>
+  <li>Actively participating in personal and collective projects</li>
+  <li>Scientific initiation aiming to build tools to combat arboviruses in the city of Recife</li>
+  <li>Game Developer (Coming soon...)</li>
+  <li>Working in Machine Learning projects (Coming soon...)</li>
+</ul>  
+
+<hr>
+
+<h3><b>Professional Contact</b></h3>
+
+<b>Email:</b> [mrlucassilva7342@gmail.com](mailto:mrlucassilva7342@gmail.com)
+
+<hr>
+
+<div align="center"> 
+<h3><b>Currently Studying</b></h3>
+
+[![My Skills](https://skillicons.dev/icons?i=angular,scss,ts,react,bootstrap,nodejs)](https://skillicons.dev)
+
+<h3><b>Favorite Tools</b></h3>
+
+[![Favorite Tools](https://skillicons.dev/icons?i=java,kotlin,sqlite,js,bash,python,html,css)](https://skillicons.dev)
+
+<h3><b>Coming Soon</b></h3>
+
+[![Coming Soon](https://skillicons.dev/icons?i=dotnet,cs,spring,php)](https://skillicons.dev)
+</div>
