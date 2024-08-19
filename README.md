@@ -1,3 +1,7 @@
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Moderustic&weight=500&size=25&pause=1000&color=5CB3FF&center=true&vCenter=true&width=435&separator=%3C&lines=Full-stack+Developer%3C%2B2+Years++of+Coding+Experience%3CAlways+Learning%3C;)"/></p>
+
+<hr>
+
 <h3 align="center">💻 GitHub Profile Stats</h3>
 
 <div align="center"> 
