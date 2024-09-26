@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Moderustic&weight=500&size=25&pause=1000&color=5CB3FF&center=true&vCenter=true&width=435&separator=%3C&lines=Full-stack+Developer%3C%2B2+Years++of+Coding+Experience%3CAlways+Learning%3C;)"/></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Moderustic&weight=500&size=25&pause=1000&color=5CB3FF&center=true&vCenter=true&width=435&separator=%3C&lines=Full+Stack+Developer%3C%2B2+Years++of+Coding+Experience%3CAlways+Learning%3C;)"/></p>
 
 <hr>
 
@@ -103,7 +103,7 @@
 <div align="center"> 
 <h3><b>Currently Studying</b></h3>
 
-[![My Skills](https://skillicons.dev/icons?i=angular,scss,ts,react,bootstrap,nodejs,mysql,arduino,php,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,scss,ts,react,bootstrap,arduino,php,laravel)](https://skillicons.dev)
 
 <h3><b>Favorite Tools</b></h3>
 
@@ -111,5 +111,5 @@
 
 <h3><b>Coming Soon</b></h3>
 
-[![Coming Soon](https://skillicons.dev/icons?i=dotnet,cs,spring,ruby,rails,vue,mongodb)](https://skillicons.dev)
+[![Coming Soon](https://skillicons.dev/icons?i=dotnet,cs,spring,ruby,rails,vue,mongodb,mysql)](https://skillicons.dev)
 </div>
