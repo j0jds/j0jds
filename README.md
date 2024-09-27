@@ -111,5 +111,5 @@
 
 <h3><b>Coming Soon</b></h3>
 
-[![Coming Soon](https://skillicons.dev/icons?i=dotnet,cs,spring,ruby,rails,react,node,mysql)](https://skillicons.dev)
+[![Coming Soon](https://skillicons.dev/icons?i=dotnet,cs,spring,ruby,rails,react,nodejs,mysql)](https://skillicons.dev)
 </div>
