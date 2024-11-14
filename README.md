@@ -103,11 +103,15 @@
 <div align="center"> 
 <h3><b>Currently Studying</b></h3>
 
-[![My Skills](https://skillicons.dev/icons?i=angular,js,scss,ts,nodejs,vue,bootstrap,arduino,php,laravel,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,js,ts,bootstrap,scss,vue,php,laravel,mysql)](https://skillicons.dev)
 
-<h3><b>Favorite Tools</b></h3>
+<h3><b>Made Entire Projects With</b></h3>
 
-[![Favorite Tools](https://skillicons.dev/icons?i=java,kotlin,sqlite,bash,python,html,css)](https://skillicons.dev)
+[![Made Entire Projects With](https://skillicons.dev/icons?i=python,css,flask,html,sqlite,js,kotlin,java)](https://skillicons.dev)
+
+<h3><b>Already Used</b></h3>
+
+[![Already Used](https://skillicons.dev/icons?i=arduino,nodejs,c)](https://skillicons.dev)
 
 <h3><b>Coming Soon</b></h3>
 
