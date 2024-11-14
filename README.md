@@ -66,5 +66,3 @@
 <h3><b>Professional Contact</b></h3>
 
 <b>Email:</b> [mrlucassilva7342@gmail.com](mailto:mrlucassilva7342@gmail.com)
-
-<hr>
