@@ -24,7 +24,7 @@
 <div align="center"> 
 <h3><b>Currently Studying</b></h3>
 
-[![My Skills](https://skillicons.dev/icons?i=angular,js,ts,bootstrap,scss,vue,php,laravel,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,js,ts,bootstrap,scss,vue,php,laravel)](https://skillicons.dev)
 
 <h3><b>Made Entire Projects With</b></h3>
 
@@ -36,7 +36,7 @@
 
 <h3><b>Coming Soon</b></h3>
 
-[![Coming Soon](https://skillicons.dev/icons?i=dotnet,cs,spring,ruby,rails,react,mongodb)](https://skillicons.dev)
+[![Coming Soon](https://skillicons.dev/icons?i=cs,mysql,dotnet,spring,ruby,rails,react,mongodb)](https://skillicons.dev)
 </div>
   
 <!--  
