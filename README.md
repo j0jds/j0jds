@@ -56,7 +56,6 @@
   <li>Software Developer Intern at Direction Systems</li>
   <li>+2 years of programming experience</li>
   <li>Actively participating in personal and collective projects</li>
-  <li>Scientific initiation aiming to build tools to combat arboviruses in the city of Recife</li>
   <li>Game Developer (Coming soon...)</li>
   <li>Working in Machine Learning projects (Coming soon...)</li>
 </ul>  
