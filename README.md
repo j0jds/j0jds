@@ -36,7 +36,7 @@
 
 <h3><b>Coming Soon</b></h3>
 
-[![Coming Soon](https://skillicons.dev/icons?i=cs,mysql,dotnet,spring,ruby,rails,react,mongodb,laravel)](https://skillicons.dev)
+[![Coming Soon](https://skillicons.dev/icons?i=cs,mysql,dotnet,spring,ruby,rails,react,mongodb,laravel,postgresql)](https://skillicons.dev)
 </div>
   
 <!--  
