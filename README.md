@@ -24,7 +24,7 @@
 <div align="center"> 
 <h3><b>Currently Studying</b></h3>
 
-[![My Skills](https://skillicons.dev/icons?i=angular,js,ts,tailwind,scss,vue,bootstrap,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,js,ts,tailwind,scss,bootstrap,php)](https://skillicons.dev)
 
 <h3><b>Made Entire Projects With</b></h3>
 
@@ -32,11 +32,11 @@
 
 <h3><b>Already Used</b></h3>
 
-[![Already Used](https://skillicons.dev/icons?i=arduino,nodejs,c)](https://skillicons.dev)
+[![Already Used](https://skillicons.dev/icons?i=arduino,c)](https://skillicons.dev)
 
 <h3><b>Coming Soon</b></h3>
 
-[![Coming Soon](https://skillicons.dev/icons?i=cs,mysql,dotnet,spring,ruby,rails,react,mongodb,laravel,postgresql)](https://skillicons.dev)
+[![Coming Soon](https://skillicons.dev/icons?i=cs,mysql,dotnet,vue,spring,ruby,rails,react,mongodb,laravel,postgresql)](https://skillicons.dev)
 </div>
   
 <!--  
