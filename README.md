@@ -38,12 +38,6 @@
 
 [![Coming Soon](https://skillicons.dev/icons?i=cs,mysql,dotnet,vue,spring,ruby,rails,react,mongodb,laravel,postgresql)](https://skillicons.dev)
 </div>
-  
-<!--  
-<hr>
-
-<p align="center"><img alt="j0jds's Streak Stats" src="https://streak-stats.demolab.com?user=j0jds&theme=github-dark-blue" alt="GitHub Streak"></p> 
--->
 
 <hr> 
 
