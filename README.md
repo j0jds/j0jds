@@ -24,19 +24,19 @@
 <div align="center"> 
 <h3><b>Currently Studying</b></h3>
 
-[![My Skills](https://skillicons.dev/icons?i=angular,js,ts,tailwind,scss,bootstrap,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,php,ts,mysql,bootstrap,js,scss)](https://skillicons.dev)
 
 <h3><b>Made Entire Projects With</b></h3>
 
-[![Made Entire Projects With](https://skillicons.dev/icons?i=python,css,flask,html,sqlite,js,kotlin,java)](https://skillicons.dev)
+[![Made Entire Projects With](https://skillicons.dev/icons?i=html,js,flask,css,sqlite,python,kotlin,java)](https://skillicons.dev)
 
 <h3><b>Already Used</b></h3>
 
-[![Already Used](https://skillicons.dev/icons?i=arduino,c)](https://skillicons.dev)
+[![Already Used](https://skillicons.dev/icons?i=arduino,c,tailwind)](https://skillicons.dev)
 
 <h3><b>Coming Soon</b></h3>
 
-[![Coming Soon](https://skillicons.dev/icons?i=cs,mysql,dotnet,vue,spring,ruby,rails,react,mongodb,laravel,postgresql)](https://skillicons.dev)
+[![Coming Soon](https://skillicons.dev/icons?i=cs,laravel,vue,dotnet,ruby,rails,react,spring,mongodb,postgresql)](https://skillicons.dev)
 </div>
 
 <hr> 
