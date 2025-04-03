@@ -5,7 +5,7 @@
 <h3 align="center">💻 GitHub Profile Stats</h3>
 
 <div align="center"> 
- <img alt="j0jds's Github Stats" src="https://github-readme-stats.vercel.app/api?username=j0jds&theme=github_dark&show_icons=true" height="194 px"/>
+<!--  <img alt="j0jds's Github Stats" src="https://github-readme-stats.vercel.app/api?username=j0jds&theme=github_dark&show_icons=true" height="194 px"/> -->
  <img alt="j0jds's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0jds&layout=compact&theme=github_dark" height="194 px"/>  
 </div>
 
