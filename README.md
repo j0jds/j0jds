@@ -24,7 +24,7 @@
 <div align="center"> 
 <h3><b>Currently Studying</b></h3>
 
-[![My Skills](https://skillicons.dev/icons?i=php,mysql,js,bootstrap,angular,ts,scss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,svelte,mysql,js,bootstrap,angular,ts,scss)](https://skillicons.dev)
 
 <h3><b>Made Entire Projects With</b></h3>
 
