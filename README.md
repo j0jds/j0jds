@@ -1,19 +1,8 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Moderustic&weight=500&size=25&pause=1000&color=5CB3FF&center=true&vCenter=true&width=435&separator=%3C&lines=Full+Stack+Developer%3C%2B2+Years++of+Coding+Experience%3CAlways+Learning%3C;)"/></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Moderustic&weight=500&size=25&pause=1000&color=5CB3FF&center=true&vCenter=true&width=435&separator=%3C&lines=Full+Stack+Developer%3C%2B3+Years++of+Coding+Experience%3CAlways+Learning%3C;)"/></p>
 
 <hr>
 
 <h3 align="center">💻 GitHub Profile Stats</h3>
-
-<div align="center"> 
- <img alt="j0jds's Github Stats" src="https://github-readme-stats.vercel.app/api?username=j0jds&theme=github_dark&show_icons=true" height="194 px"/>
- <img alt="j0jds's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0jds&layout=compact&theme=github_dark" height="194 px"/>  
-</div>
-
-<br>
-
-  <b>Note:</b> Top languages ​​is only a metric of the languages ​​my public codes consists of but doesn't reflect experience, skill level, neither the type I prefer to work.
-
-<br>
 
   <img alt="j0jds's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=j0jds&theme=github-dark" align="center"/>
 
@@ -24,11 +13,11 @@
 <div align="center"> 
 <h3><b>Currently Studying</b></h3>
 
-[![My Skills](https://skillicons.dev/icons?i=php,svelte,mysql,js,bootstrap,angular,ts,scss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,ruby,rails,php,fortran)](https://skillicons.dev)
 
 <h3><b>Made Entire Projects With</b></h3>
 
-[![Made Entire Projects With](https://skillicons.dev/icons?i=html,js,flask,css,sqlite,python,kotlin,java)](https://skillicons.dev)
+[![Made Entire Projects With](https://skillicons.dev/icons?i=angular,ts,scss,js,flask,css,sqlite,python,kotlin,java)](https://skillicons.dev)
 
 <h3><b>Already Used</b></h3>
 
@@ -36,7 +25,7 @@
 
 <h3><b>Coming Soon</b></h3>
 
-[![Coming Soon](https://skillicons.dev/icons?i=cs,laravel,vue,dotnet,ruby,rails,react,spring)](https://skillicons.dev)
+[![Coming Soon](https://skillicons.dev/icons?i=vue,laravel,dotnet,react,spring)](https://skillicons.dev)
 </div>
 
 <hr> 
@@ -47,8 +36,8 @@
   
 <h3><b>About Me</b></h3>
 <ul>
-  <li>Software Developer Intern at Direction Systems</li>
-  <li>+2 years of programming experience</li>
+  <li>+1.3 years of active experience as a Software Developer Intern</li>
+  <li>+3 years of programming experience</li>
   <li>Actively participating in personal and collective projects</li>
   <li>Game Developer (Coming soon...)</li>
   <li>Working in Machine Learning projects (Coming soon...)</li>
