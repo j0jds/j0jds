@@ -13,7 +13,7 @@
 <div align="center"> 
 <h3><b>Currently Studying</b></h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,ruby,rails,php,fortran)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,ruby,rails,php,fortran,js)](https://skillicons.dev)
 
 <h3><b>Made Entire Projects With</b></h3>
 
