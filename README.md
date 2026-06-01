@@ -39,7 +39,7 @@
   <li>+1.3 years of active experience as a Software Developer Intern</li>
   <li>+3 years of programming experience</li>
   <li>Actively participating in personal and collective projects</li>
-  <li>Game Developer (Coming soon...)</li>
+  <li>Game Developer</li>
   <li>Working in Machine Learning projects (Coming soon...)</li>
 </ul>  
 
